@@ -1,5 +1,5 @@
 # Chatter
-## By Dana Feder
+A web chat application developed with React hooks and Sockit.io
 
 ## How To Deploy
 
