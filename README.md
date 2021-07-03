@@ -1,5 +1,5 @@
 # Chatter
-A web chat application developed with React hooks and Sockit.io
+A web chat application developed with React hooks, Node.js and Sockit.io
 
 ## How To Deploy
 
@@ -7,13 +7,14 @@ A web chat application developed with React hooks and Sockit.io
 ```shell
 git clone https://github.com/DanaFeder/Chatter.git
 ```
+2. Install Node.js
 
-2. Run Server
+3. Run Server
    - navigate to 'server' folder
    - Install dependencies: run `npm i`
    - Start server: run `npm start`
  
-3. Run Frontend
+4. Run Frontend
    - navigate to 'client' folder
    - Install dependencies: run `npm i`
    - Start frontend: run `npm start`
